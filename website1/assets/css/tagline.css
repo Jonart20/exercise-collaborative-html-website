@@ -4,12 +4,13 @@ html body{
     height: 100%;
 
 }
-body{
+#body{
 	background-image: url("../img/bg.jpg");
 	 background-repeat: no-repeat;
 	  background-size: cover; 
       background-position: center center fixed;
       background-attachment: fixed;
+      height: 400px;
 
 
 	  }
